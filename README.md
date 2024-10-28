@@ -75,7 +75,7 @@ Y= A⊕B
 
 ## LOGIC SYMBOL & TRUTHTABLE
 
-![truthtable_Exp1](https://github.com/user-attachments/assets/a4dcb2e4-b8d6-4d91-8c46-d175c08950a6)
+![truthtable_Exp1](https://github.com/user-attachments/assets/07ed3f55-dabd-4041-af61-99e8e00a6a37)
 
 
 ## RTL OUTPUT
