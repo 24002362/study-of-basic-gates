@@ -1,5 +1,6 @@
 ### NAME: HARIPRIYA M
 ### REG NO: 24002362
+### DATE: 03.10.2024
 # EXPERIMENT 1: Study Of Logic gates
 
 ## AIM 
